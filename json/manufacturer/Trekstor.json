@@ -1,0 +1,15 @@
+{
+  "manufacturer": "TrekStor",
+  "devices": [
+    {
+      "market_name": "TrekStor tolino tab 7",
+      "codename": "tolino7",
+      "model": "tolino tab 7"
+    },
+    {
+      "market_name": "TrekStor tolino tab 8.9",
+      "codename": "tolino89",
+      "model": "tolino tab 8.9"
+    }
+  ]
+}
