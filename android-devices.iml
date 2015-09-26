@@ -20,5 +20,6 @@
     <orderEntry type="library" exported="" name="Gradle: org.apache.poi:poi:3.9" level="project" />
     <orderEntry type="library" exported="" name="Gradle: commons-io:commons-io:2.4" level="project" />
     <orderEntry type="library" exported="" name="Gradle: commons-codec:commons-codec:1.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.jsoup:jsoup:1.8.3" level="project" />
   </component>
 </module>
