@@ -62,6 +62,7 @@ public class Main {
     FileUtils.write(new File(OUTPUT_DIR, "android-devices-min.json"), GSON.toJson(devices));
     createDeviceJsonFiles(devices);
     createManufacturerJsonFiles(devices);
+    createPopularDevicesJsonFile(devices);
   }
 
   private static List<String[]> getDeviceList(String xls) throws IOException {
@@ -152,6 +153,17 @@ public class Main {
       Manufacturer manufacturer = new Manufacturer(key, entry.getValue());
       FileUtils.write(file, PRETTY_GSON.toJson(manufacturer));
     }
+  }
+
+  private static void createPopularDevicesJsonFile(List<String[]> devices) throws IOException {
+    List<String> codenames = CyanogenModScraper.getCodenames();
+    List<DeviceInfo> deviceInfos = new ArrayList<>();
+    for (String[] arr : devices) {
+      if (codenames.contains(arr[2])) {
+        deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
+      }
+    }
+    FileUtils.write(new File(OUTPUT_DIR, "popular-devices.json"), GSON.toJson(deviceInfos));
   }
 
   static class Manufacturer {
