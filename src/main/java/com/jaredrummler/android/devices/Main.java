@@ -31,6 +31,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -184,11 +185,18 @@ public class Main {
   }
 
   private static void createPopularDevicesJsonFile(List<String[]> devices) throws IOException {
+    List<String> excludedCodenames = Arrays.asList(new String[]{
+        "hummingbird", "ovation", "falcon", "d800", "liberty", "bravo", "dlx", "desirec", "inc",
+        "u8150", "cdma_droid2we"
+    });
+
     List<String> codenames = CyanogenModScraper.getCodenames();
     List<String> deviceNames = new ArrayList<>();
     List<DeviceInfo> deviceInfos = new ArrayList<>();
     List<String[]> commonDevices = new ArrayList<>();
-    devices.stream().filter(arr -> codenames.contains(arr[2])).forEach(arr -> {
+    devices.stream()
+        .filter(arr -> codenames.contains(arr[2]) && !arr[1].isEmpty() && !arr[1].equals(
+            arr[3]) && !excludedCodenames.contains(arr[2])).forEach(arr -> {
       deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
       commonDevices.add(arr);
       deviceNames.add(arr[1]);
@@ -196,10 +204,9 @@ public class Main {
     for (String name : POPULAR_DEVICES) {
       if (!deviceNames.contains(name)) {
         devices.stream().forEach(arr -> {
-          if (arr[1].equals(name)) {
+          if (!arr[1].isEmpty() && arr[1].equals(name) && !arr[1].equals(arr[3])) {
             deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
             commonDevices.add(arr);
-
           }
         });
       }

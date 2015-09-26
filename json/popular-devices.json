@@ -1,23 +1,5 @@
 [
   {
-    "manufacturer": "Acer",
-    "market_name": "",
-    "codename": "a5",
-    "model": "S300"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "A1-810",
-    "codename": "mango",
-    "model": "A1-810"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "A1-811",
-    "codename": "mango",
-    "model": "A1-811"
-  },
-  {
     "manufacturer": "Asus",
     "market_name": "Nexus 7 (2012)",
     "codename": "grouper",
@@ -42,100 +24,10 @@
     "model": "Nexus 7"
   },
   {
-    "manufacturer": "Asus",
-    "market_name": "Nexus Player",
-    "codename": "fugu",
-    "model": "Nexus Player"
-  },
-  {
-    "manufacturer": "Barnes and Noble",
-    "market_name": "NOOK\\xc2\\xae HD",
-    "codename": "hummingbird",
-    "model": "BNTV400"
-  },
-  {
-    "manufacturer": "Barnes and Noble",
-    "market_name": "NOOK\\xc2\\xae HD+",
-    "codename": "ovation",
-    "model": "BNTV600"
-  },
-  {
-    "manufacturer": "Borqs",
-    "market_name": "Falcon",
-    "codename": "falcon",
-    "model": "falcon"
-  },
-  {
-    "manufacturer": "British Telecom",
-    "market_name": "HomeSmartphone d800",
-    "codename": "d800",
-    "model": "BT Home SmartPhone S II"
-  },
-  {
     "manufacturer": "EMTEC",
     "market_name": "EMTEC F400",
     "codename": "f400",
     "model": "f400"
-  },
-  {
-    "manufacturer": "GSmart",
-    "market_name": "GSmart SX1",
-    "codename": "bravo",
-    "model": "GSmart SX1"
-  },
-  {
-    "manufacturer": "GSmart",
-    "market_name": "Simba SX1",
-    "codename": "bravo",
-    "model": "Simba SX1"
-  },
-  {
-    "manufacturer": "Gradiente",
-    "market_name": "iphone C600",
-    "codename": "bravo",
-    "model": "iphone C600"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "ADR6425LVW",
-    "codename": "vigor",
-    "model": "ADR6425LVW"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Aria",
-    "codename": "liberty",
-    "model": "HTC Aria"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Aria",
-    "codename": "liberty",
-    "model": "HTC Aria A6380"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Aria",
-    "codename": "liberty",
-    "model": "HTC Gratia A6380"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Aria",
-    "codename": "liberty",
-    "model": "HTC Liberty"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Desire",
-    "codename": "bravo",
-    "model": "HTC Desire"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Desire",
-    "codename": "bravo",
-    "model": "X06HT"
   },
   {
     "manufacturer": "HTC",
@@ -148,12 +40,6 @@
     "market_name": "Desire HD",
     "codename": "ace",
     "model": "001HT"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Desire HD",
-    "codename": "ace",
-    "model": "Desire HD"
   },
   {
     "manufacturer": "HTC",
@@ -172,36 +58,6 @@
     "market_name": "Desire S",
     "codename": "saga",
     "model": "HTC Desire S"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Droid DNA",
-    "codename": "dlx",
-    "model": "HTC6435LRA"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Droid DNA",
-    "codename": "dlx",
-    "model": "HTC6435LVW"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Droid Eris",
-    "codename": "desirec",
-    "model": "Eris"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Droid Eris",
-    "codename": "desirec",
-    "model": "Pulse"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Droid Incredible",
-    "codename": "inc",
-    "model": "ADR6300"
   },
   {
     "manufacturer": "HTC",
@@ -235,21 +91,9 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC 601e",
-    "codename": "m4",
-    "model": "HTC 601e"
-  },
-  {
-    "manufacturer": "HTC",
     "market_name": "HTC 9060",
     "codename": "m7",
     "model": "HTC 801e"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC Butterfly",
-    "codename": "dlxu",
-    "model": "HTC Butterfly"
   },
   {
     "manufacturer": "HTC",
@@ -262,12 +106,6 @@
     "market_name": "HTC Butterfly",
     "codename": "dlxu",
     "model": "HTC X920e"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC DROID DNA",
-    "codename": "dlx",
-    "model": "HTC6435LRA"
   },
   {
     "manufacturer": "HTC",
@@ -297,12 +135,6 @@
     "manufacturer": "HTC",
     "market_name": "HTC EVO 3D X515m",
     "codename": "shooteru",
-    "model": "HTC EVO 3D X515m"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC EVO 3D X515m",
-    "codename": "shooteru",
     "model": "HTC Inspire 3D"
   },
   {
@@ -316,12 +148,6 @@
     "market_name": "HTC Hero",
     "codename": "hero",
     "model": "ERA G2 Touch"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC Hero",
-    "codename": "hero",
-    "model": "HTC Hero"
   },
   {
     "manufacturer": "HTC",
@@ -363,12 +189,6 @@
     "manufacturer": "HTC",
     "market_name": "HTC One",
     "codename": "m7",
-    "model": "HTC One"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7",
     "model": "HTC One 801e"
   },
   {
@@ -376,12 +196,6 @@
     "market_name": "HTC One",
     "codename": "m7",
     "model": "HTC_PN071"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One 801e",
-    "codename": "m7",
-    "model": "HTC One 801e"
   },
   {
     "manufacturer": "HTC",
@@ -399,19 +213,7 @@
     "manufacturer": "HTC",
     "market_name": "HTC One S",
     "codename": "ville",
-    "model": "HTC One S"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One S",
-    "codename": "ville",
     "model": "HTC VLE_U"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One S",
-    "codename": "villec2",
-    "model": "HTC One S"
   },
   {
     "manufacturer": "HTC",
@@ -423,49 +225,19 @@
     "manufacturer": "HTC",
     "market_name": "HTC One X",
     "codename": "endeavoru",
-    "model": "HTC One X"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One X",
-    "codename": "endeavoru",
     "model": "HTC S720e"
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One X",
-    "codename": "evita",
-    "model": "HTC One X"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One X+",
-    "codename": "enrc2b",
-    "model": "HTC One X+"
-  },
-  {
-    "manufacturer": "HTC",
     "market_name": "HTC One XL",
     "codename": "evita",
     "model": "HTC One X"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One XL",
-    "codename": "evita",
-    "model": "HTC One XL"
   },
   {
     "manufacturer": "HTC",
     "market_name": "HTC One XL",
     "codename": "evita",
     "model": "HTC_One_XL"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One mini",
-    "codename": "m4",
-    "model": "HTC One mini"
   },
   {
     "manufacturer": "HTC",
@@ -493,12 +265,6 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC S720e",
-    "codename": "endeavoru",
-    "model": "HTC S720e"
-  },
-  {
-    "manufacturer": "HTC",
     "market_name": "HTC Velocity 4G",
     "codename": "holiday",
     "model": "HTC PH39100"
@@ -508,12 +274,6 @@
     "market_name": "HTC Velocity 4G",
     "codename": "holiday",
     "model": "HTC Raider X710e"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC Velocity 4G",
-    "codename": "holiday",
-    "model": "HTC Velocity 4G"
   },
   {
     "manufacturer": "HTC",
@@ -529,18 +289,6 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC first",
-    "codename": "mystul",
-    "model": "HTC first"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC6435LVW",
-    "codename": "dlx",
-    "model": "HTC6435LVW"
-  },
-  {
-    "manufacturer": "HTC",
     "market_name": "HTC_Amaze_4G",
     "codename": "ruby",
     "model": "HTC Amaze 4G"
@@ -550,12 +298,6 @@
     "market_name": "HTC_Amaze_4G",
     "codename": "ruby",
     "model": "HTC Ruby"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC_Amaze_4G",
-    "codename": "ruby",
-    "model": "HTC_Amaze_4G"
   },
   {
     "manufacturer": "HTC",
@@ -592,18 +334,6 @@
     "market_name": "Legend",
     "codename": "legend",
     "model": "HTC Legend"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Nexus 9",
-    "codename": "flounder",
-    "model": "Nexus 9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Nexus One",
-    "codename": "passion",
-    "model": "Nexus One"
   },
   {
     "manufacturer": "HTC",
@@ -690,22 +420,10 @@
     "model": "myTouch_4G_Slide"
   },
   {
-    "manufacturer": "Huawei",
-    "market_name": "IDEOS",
-    "codename": "u8150",
-    "model": "Ideos"
-  },
-  {
     "manufacturer": "Kobo",
     "market_name": "Kobo Arc",
     "codename": "zeus",
     "model": "Arc"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "",
-    "codename": "p940",
-    "model": "LG-P940"
   },
   {
     "manufacturer": "LGE",
@@ -829,18 +547,6 @@
   },
   {
     "manufacturer": "LGE",
-    "market_name": "Nexus 4",
-    "codename": "mako",
-    "model": "Nexus 4"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Nexus 5",
-    "codename": "hammerhead",
-    "model": "Nexus 5"
-  },
-  {
-    "manufacturer": "LGE",
     "market_name": "Optimus 2X",
     "codename": "p990",
     "model": "LG-P990"
@@ -924,42 +630,6 @@
     "model": "LG-P925"
   },
   {
-    "manufacturer": "Lenovo",
-    "market_name": "",
-    "codename": "p700",
-    "model": "Lenovo P700"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "",
-    "codename": "edison",
-    "model": "MB865"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "",
-    "codename": "edison",
-    "model": "ME865"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "",
-    "codename": "umts_spyder",
-    "model": "XT910"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "",
-    "codename": "umts_spyder",
-    "model": "XT910K"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "",
-    "codename": "umts_spyder",
-    "model": "XT910S"
-  },
-  {
     "manufacturer": "Motorola",
     "market_name": "Atrix",
     "codename": "olympus",
@@ -1024,18 +694,6 @@
     "market_name": "DROID Turbo",
     "codename": "quark",
     "model": "XT1254"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Droid",
-    "codename": "sholes",
-    "model": "Droid"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Droid II",
-    "codename": "cdma_droid2we",
-    "model": "DROID2 GLOBAL"
   },
   {
     "manufacturer": "Motorola",
@@ -1249,12 +907,6 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Nexus 6",
-    "codename": "shamu",
-    "model": "Nexus 6"
-  },
-  {
-    "manufacturer": "Motorola",
     "market_name": "Photon 4G",
     "codename": "sunfire",
     "model": "ISW11M"
@@ -1299,25 +951,7 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy Nexus",
     "codename": "maguro",
-    "model": "Galaxy Nexus"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Nexus",
-    "codename": "maguro",
     "model": "Galaxy X"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Nexus",
-    "codename": "toro",
-    "model": "Galaxy Nexus"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Nexus",
-    "codename": "toroplus",
-    "model": "Galaxy Nexus"
   },
   {
     "manufacturer": "Samsung",
@@ -1741,18 +1375,6 @@
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Nexus 10",
-    "codename": "manta",
-    "model": "Nexus 10"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Nexus S",
-    "codename": "crespo",
-    "model": "Nexus S"
-  },
-  {
-    "manufacturer": "Samsung",
     "market_name": "Nexus S",
     "codename": "crespo4g",
     "model": "Nexus S 4G"
@@ -1764,34 +1386,10 @@
     "model": "E10i"
   },
   {
-    "manufacturer": "Vertu",
-    "market_name": "Signature Touch",
-    "codename": "odin",
-    "model": "Signature Touch"
-  },
-  {
-    "manufacturer": "Xiaomi",
-    "market_name": "MI 2",
-    "codename": "aries",
-    "model": "MI 2"
-  },
-  {
     "manufacturer": "Xiaomi",
     "market_name": "MI 2",
     "codename": "aries",
     "model": "MI 2S"
-  },
-  {
-    "manufacturer": "Xiaomi",
-    "market_name": "MI 3W",
-    "codename": "cancro",
-    "model": "MI 3W"
-  },
-  {
-    "manufacturer": "Xiaomi",
-    "market_name": "MI 4LTE",
-    "codename": "cancro",
-    "model": "MI 4LTE"
   },
   {
     "manufacturer": "Xiaomi",
@@ -1804,108 +1402,6 @@
     "market_name": "MI 4LTE-CT",
     "codename": "cancro",
     "model": "MI 4LTE"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "blade",
-    "model": "MegaFon SP-A5"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "blade",
-    "model": "V880"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "blade",
-    "model": "ZTE Libra"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "blade",
-    "model": "ZTE-BLADE"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "KPN Smart 200"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "MEDION LIFE P4310"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "Monte Carlo"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "Optimus Monte Carlo"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "Orange Monte Carlo"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "ZTE N960"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "ZTE Skate"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "ZTE V960"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "ZTE-SKATE"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "ZTE-Skate"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "",
-    "codename": "skate",
-    "model": "ZTE-U V960"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "Android edition by sfr STARADDICT",
-    "codename": "skate",
-    "model": "Android edition by sfr STARADDICT"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "BASE Lutea 2",
-    "codename": "skate",
-    "model": "BASE Lutea 2"
   },
   {
     "manufacturer": "ZTE",
@@ -2065,24 +1561,6 @@
   },
   {
     "manufacturer": "ZTE",
-    "market_name": "MEDION LIFE P4310",
-    "codename": "skate",
-    "model": "MEDION LIFE P4310"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "Orange Monte Carlo",
-    "codename": "skate",
-    "model": "Orange Monte Carlo"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "T3",
-    "codename": "skate",
-    "model": "T3"
-  },
-  {
-    "manufacturer": "ZTE",
     "market_name": "V9",
     "codename": "v9",
     "model": "A100"
@@ -2151,12 +1629,6 @@
     "manufacturer": "ZTE",
     "market_name": "V9",
     "codename": "v9",
-    "model": "V9"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "V9",
-    "codename": "v9",
     "model": "V9C"
   },
   {
@@ -2176,24 +1648,6 @@
     "market_name": "V9",
     "codename": "v9",
     "model": "myPad P2"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Skate",
-    "codename": "skate",
-    "model": "ZTE Skate"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE-BLADE",
-    "codename": "blade",
-    "model": "ZTE-BLADE"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE-SKATE",
-    "codename": "skate",
-    "model": "ZTE-SKATE"
   },
   {
     "manufacturer": "HTC",
@@ -2271,12 +1725,6 @@
     "manufacturer": "HTC",
     "market_name": "HTC One M9",
     "codename": "htc_himauhl",
-    "model": "HTC One M9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himauhl",
     "model": "HTC_0PJA10"
   },
   {
@@ -2284,24 +1732,6 @@
     "market_name": "HTC One M9",
     "codename": "htc_himauhl",
     "model": "HTC_M9u"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himaul",
-    "model": "HTC One M9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himaulatt",
-    "model": "HTC One M9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himawhl",
-    "model": "HTC One M9"
   },
   {
     "manufacturer": "HTC",

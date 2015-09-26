@@ -1,23 +1,5 @@
 [
   [
-    "Acer",
-    "",
-    "a5",
-    "S300"
-  ],
-  [
-    "Acer",
-    "A1-810",
-    "mango",
-    "A1-810"
-  ],
-  [
-    "Acer",
-    "A1-811",
-    "mango",
-    "A1-811"
-  ],
-  [
     "Asus",
     "Nexus 7 (2012)",
     "grouper",
@@ -42,100 +24,10 @@
     "Nexus 7"
   ],
   [
-    "Asus",
-    "Nexus Player",
-    "fugu",
-    "Nexus Player"
-  ],
-  [
-    "Barnes and Noble",
-    "NOOK\\xc2\\xae HD",
-    "hummingbird",
-    "BNTV400"
-  ],
-  [
-    "Barnes and Noble",
-    "NOOK\\xc2\\xae HD+",
-    "ovation",
-    "BNTV600"
-  ],
-  [
-    "Borqs",
-    "Falcon",
-    "falcon",
-    "falcon"
-  ],
-  [
-    "British Telecom",
-    "HomeSmartphone d800",
-    "d800",
-    "BT Home SmartPhone S II"
-  ],
-  [
     "EMTEC",
     "EMTEC F400",
     "f400",
     "f400"
-  ],
-  [
-    "GSmart",
-    "GSmart SX1",
-    "bravo",
-    "GSmart SX1"
-  ],
-  [
-    "GSmart",
-    "Simba SX1",
-    "bravo",
-    "Simba SX1"
-  ],
-  [
-    "Gradiente",
-    "iphone C600",
-    "bravo",
-    "iphone C600"
-  ],
-  [
-    "HTC",
-    "ADR6425LVW",
-    "vigor",
-    "ADR6425LVW"
-  ],
-  [
-    "HTC",
-    "Aria",
-    "liberty",
-    "HTC Aria"
-  ],
-  [
-    "HTC",
-    "Aria",
-    "liberty",
-    "HTC Aria A6380"
-  ],
-  [
-    "HTC",
-    "Aria",
-    "liberty",
-    "HTC Gratia A6380"
-  ],
-  [
-    "HTC",
-    "Aria",
-    "liberty",
-    "HTC Liberty"
-  ],
-  [
-    "HTC",
-    "Desire",
-    "bravo",
-    "HTC Desire"
-  ],
-  [
-    "HTC",
-    "Desire",
-    "bravo",
-    "X06HT"
   ],
   [
     "HTC",
@@ -148,12 +40,6 @@
     "Desire HD",
     "ace",
     "001HT"
-  ],
-  [
-    "HTC",
-    "Desire HD",
-    "ace",
-    "Desire HD"
   ],
   [
     "HTC",
@@ -172,36 +58,6 @@
     "Desire S",
     "saga",
     "HTC Desire S"
-  ],
-  [
-    "HTC",
-    "Droid DNA",
-    "dlx",
-    "HTC6435LRA"
-  ],
-  [
-    "HTC",
-    "Droid DNA",
-    "dlx",
-    "HTC6435LVW"
-  ],
-  [
-    "HTC",
-    "Droid Eris",
-    "desirec",
-    "Eris"
-  ],
-  [
-    "HTC",
-    "Droid Eris",
-    "desirec",
-    "Pulse"
-  ],
-  [
-    "HTC",
-    "Droid Incredible",
-    "inc",
-    "ADR6300"
   ],
   [
     "HTC",
@@ -235,21 +91,9 @@
   ],
   [
     "HTC",
-    "HTC 601e",
-    "m4",
-    "HTC 601e"
-  ],
-  [
-    "HTC",
     "HTC 9060",
     "m7",
     "HTC 801e"
-  ],
-  [
-    "HTC",
-    "HTC Butterfly",
-    "dlxu",
-    "HTC Butterfly"
   ],
   [
     "HTC",
@@ -262,12 +106,6 @@
     "HTC Butterfly",
     "dlxu",
     "HTC X920e"
-  ],
-  [
-    "HTC",
-    "HTC DROID DNA",
-    "dlx",
-    "HTC6435LRA"
   ],
   [
     "HTC",
@@ -297,12 +135,6 @@
     "HTC",
     "HTC EVO 3D X515m",
     "shooteru",
-    "HTC EVO 3D X515m"
-  ],
-  [
-    "HTC",
-    "HTC EVO 3D X515m",
-    "shooteru",
     "HTC Inspire 3D"
   ],
   [
@@ -316,12 +148,6 @@
     "HTC Hero",
     "hero",
     "ERA G2 Touch"
-  ],
-  [
-    "HTC",
-    "HTC Hero",
-    "hero",
-    "HTC Hero"
   ],
   [
     "HTC",
@@ -363,12 +189,6 @@
     "HTC",
     "HTC One",
     "m7",
-    "HTC One"
-  ],
-  [
-    "HTC",
-    "HTC One",
-    "m7",
     "HTC One 801e"
   ],
   [
@@ -376,12 +196,6 @@
     "HTC One",
     "m7",
     "HTC_PN071"
-  ],
-  [
-    "HTC",
-    "HTC One 801e",
-    "m7",
-    "HTC One 801e"
   ],
   [
     "HTC",
@@ -399,19 +213,7 @@
     "HTC",
     "HTC One S",
     "ville",
-    "HTC One S"
-  ],
-  [
-    "HTC",
-    "HTC One S",
-    "ville",
     "HTC VLE_U"
-  ],
-  [
-    "HTC",
-    "HTC One S",
-    "villec2",
-    "HTC One S"
   ],
   [
     "HTC",
@@ -423,49 +225,19 @@
     "HTC",
     "HTC One X",
     "endeavoru",
-    "HTC One X"
-  ],
-  [
-    "HTC",
-    "HTC One X",
-    "endeavoru",
     "HTC S720e"
   ],
   [
     "HTC",
-    "HTC One X",
-    "evita",
-    "HTC One X"
-  ],
-  [
-    "HTC",
-    "HTC One X+",
-    "enrc2b",
-    "HTC One X+"
-  ],
-  [
-    "HTC",
     "HTC One XL",
     "evita",
     "HTC One X"
-  ],
-  [
-    "HTC",
-    "HTC One XL",
-    "evita",
-    "HTC One XL"
   ],
   [
     "HTC",
     "HTC One XL",
     "evita",
     "HTC_One_XL"
-  ],
-  [
-    "HTC",
-    "HTC One mini",
-    "m4",
-    "HTC One mini"
   ],
   [
     "HTC",
@@ -493,12 +265,6 @@
   ],
   [
     "HTC",
-    "HTC S720e",
-    "endeavoru",
-    "HTC S720e"
-  ],
-  [
-    "HTC",
     "HTC Velocity 4G",
     "holiday",
     "HTC PH39100"
@@ -508,12 +274,6 @@
     "HTC Velocity 4G",
     "holiday",
     "HTC Raider X710e"
-  ],
-  [
-    "HTC",
-    "HTC Velocity 4G",
-    "holiday",
-    "HTC Velocity 4G"
   ],
   [
     "HTC",
@@ -529,18 +289,6 @@
   ],
   [
     "HTC",
-    "HTC first",
-    "mystul",
-    "HTC first"
-  ],
-  [
-    "HTC",
-    "HTC6435LVW",
-    "dlx",
-    "HTC6435LVW"
-  ],
-  [
-    "HTC",
     "HTC_Amaze_4G",
     "ruby",
     "HTC Amaze 4G"
@@ -550,12 +298,6 @@
     "HTC_Amaze_4G",
     "ruby",
     "HTC Ruby"
-  ],
-  [
-    "HTC",
-    "HTC_Amaze_4G",
-    "ruby",
-    "HTC_Amaze_4G"
   ],
   [
     "HTC",
@@ -592,18 +334,6 @@
     "Legend",
     "legend",
     "HTC Legend"
-  ],
-  [
-    "HTC",
-    "Nexus 9",
-    "flounder",
-    "Nexus 9"
-  ],
-  [
-    "HTC",
-    "Nexus One",
-    "passion",
-    "Nexus One"
   ],
   [
     "HTC",
@@ -690,22 +420,10 @@
     "myTouch_4G_Slide"
   ],
   [
-    "Huawei",
-    "IDEOS",
-    "u8150",
-    "Ideos"
-  ],
-  [
     "Kobo",
     "Kobo Arc",
     "zeus",
     "Arc"
-  ],
-  [
-    "LGE",
-    "",
-    "p940",
-    "LG-P940"
   ],
   [
     "LGE",
@@ -829,18 +547,6 @@
   ],
   [
     "LGE",
-    "Nexus 4",
-    "mako",
-    "Nexus 4"
-  ],
-  [
-    "LGE",
-    "Nexus 5",
-    "hammerhead",
-    "Nexus 5"
-  ],
-  [
-    "LGE",
     "Optimus 2X",
     "p990",
     "LG-P990"
@@ -924,42 +630,6 @@
     "LG-P925"
   ],
   [
-    "Lenovo",
-    "",
-    "p700",
-    "Lenovo P700"
-  ],
-  [
-    "Motorola",
-    "",
-    "edison",
-    "MB865"
-  ],
-  [
-    "Motorola",
-    "",
-    "edison",
-    "ME865"
-  ],
-  [
-    "Motorola",
-    "",
-    "umts_spyder",
-    "XT910"
-  ],
-  [
-    "Motorola",
-    "",
-    "umts_spyder",
-    "XT910K"
-  ],
-  [
-    "Motorola",
-    "",
-    "umts_spyder",
-    "XT910S"
-  ],
-  [
     "Motorola",
     "Atrix",
     "olympus",
@@ -1024,18 +694,6 @@
     "DROID Turbo",
     "quark",
     "XT1254"
-  ],
-  [
-    "Motorola",
-    "Droid",
-    "sholes",
-    "Droid"
-  ],
-  [
-    "Motorola",
-    "Droid II",
-    "cdma_droid2we",
-    "DROID2 GLOBAL"
   ],
   [
     "Motorola",
@@ -1249,12 +907,6 @@
   ],
   [
     "Motorola",
-    "Nexus 6",
-    "shamu",
-    "Nexus 6"
-  ],
-  [
-    "Motorola",
     "Photon 4G",
     "sunfire",
     "ISW11M"
@@ -1299,25 +951,7 @@
     "Samsung",
     "Galaxy Nexus",
     "maguro",
-    "Galaxy Nexus"
-  ],
-  [
-    "Samsung",
-    "Galaxy Nexus",
-    "maguro",
     "Galaxy X"
-  ],
-  [
-    "Samsung",
-    "Galaxy Nexus",
-    "toro",
-    "Galaxy Nexus"
-  ],
-  [
-    "Samsung",
-    "Galaxy Nexus",
-    "toroplus",
-    "Galaxy Nexus"
   ],
   [
     "Samsung",
@@ -1741,18 +1375,6 @@
   ],
   [
     "Samsung",
-    "Nexus 10",
-    "manta",
-    "Nexus 10"
-  ],
-  [
-    "Samsung",
-    "Nexus S",
-    "crespo",
-    "Nexus S"
-  ],
-  [
-    "Samsung",
     "Nexus S",
     "crespo4g",
     "Nexus S 4G"
@@ -1764,34 +1386,10 @@
     "E10i"
   ],
   [
-    "Vertu",
-    "Signature Touch",
-    "odin",
-    "Signature Touch"
-  ],
-  [
-    "Xiaomi",
-    "MI 2",
-    "aries",
-    "MI 2"
-  ],
-  [
     "Xiaomi",
     "MI 2",
     "aries",
     "MI 2S"
-  ],
-  [
-    "Xiaomi",
-    "MI 3W",
-    "cancro",
-    "MI 3W"
-  ],
-  [
-    "Xiaomi",
-    "MI 4LTE",
-    "cancro",
-    "MI 4LTE"
   ],
   [
     "Xiaomi",
@@ -1804,108 +1402,6 @@
     "MI 4LTE-CT",
     "cancro",
     "MI 4LTE"
-  ],
-  [
-    "ZTE",
-    "",
-    "blade",
-    "MegaFon SP-A5"
-  ],
-  [
-    "ZTE",
-    "",
-    "blade",
-    "V880"
-  ],
-  [
-    "ZTE",
-    "",
-    "blade",
-    "ZTE Libra"
-  ],
-  [
-    "ZTE",
-    "",
-    "blade",
-    "ZTE-BLADE"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "KPN Smart 200"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "MEDION LIFE P4310"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "Monte Carlo"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "Optimus Monte Carlo"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "Orange Monte Carlo"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "ZTE N960"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "ZTE Skate"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "ZTE V960"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "ZTE-SKATE"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "ZTE-Skate"
-  ],
-  [
-    "ZTE",
-    "",
-    "skate",
-    "ZTE-U V960"
-  ],
-  [
-    "ZTE",
-    "Android edition by sfr STARADDICT",
-    "skate",
-    "Android edition by sfr STARADDICT"
-  ],
-  [
-    "ZTE",
-    "BASE Lutea 2",
-    "skate",
-    "BASE Lutea 2"
   ],
   [
     "ZTE",
@@ -2065,24 +1561,6 @@
   ],
   [
     "ZTE",
-    "MEDION LIFE P4310",
-    "skate",
-    "MEDION LIFE P4310"
-  ],
-  [
-    "ZTE",
-    "Orange Monte Carlo",
-    "skate",
-    "Orange Monte Carlo"
-  ],
-  [
-    "ZTE",
-    "T3",
-    "skate",
-    "T3"
-  ],
-  [
-    "ZTE",
     "V9",
     "v9",
     "A100"
@@ -2151,12 +1629,6 @@
     "ZTE",
     "V9",
     "v9",
-    "V9"
-  ],
-  [
-    "ZTE",
-    "V9",
-    "v9",
     "V9C"
   ],
   [
@@ -2176,24 +1648,6 @@
     "V9",
     "v9",
     "myPad P2"
-  ],
-  [
-    "ZTE",
-    "ZTE Skate",
-    "skate",
-    "ZTE Skate"
-  ],
-  [
-    "ZTE",
-    "ZTE-BLADE",
-    "blade",
-    "ZTE-BLADE"
-  ],
-  [
-    "ZTE",
-    "ZTE-SKATE",
-    "skate",
-    "ZTE-SKATE"
   ],
   [
     "HTC",
@@ -2271,12 +1725,6 @@
     "HTC",
     "HTC One M9",
     "htc_himauhl",
-    "HTC One M9"
-  ],
-  [
-    "HTC",
-    "HTC One M9",
-    "htc_himauhl",
     "HTC_0PJA10"
   ],
   [
@@ -2284,24 +1732,6 @@
     "HTC One M9",
     "htc_himauhl",
     "HTC_M9u"
-  ],
-  [
-    "HTC",
-    "HTC One M9",
-    "htc_himaul",
-    "HTC One M9"
-  ],
-  [
-    "HTC",
-    "HTC One M9",
-    "htc_himaulatt",
-    "HTC One M9"
-  ],
-  [
-    "HTC",
-    "HTC One M9",
-    "htc_himawhl",
-    "HTC One M9"
   ],
   [
     "HTC",
