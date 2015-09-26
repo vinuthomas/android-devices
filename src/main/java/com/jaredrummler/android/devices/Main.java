@@ -50,6 +50,34 @@ public class Main {
 
   private static final File OUTPUT_DIR = new File("json");
 
+  // popular devices that may not be scraped from cyanogenmod
+  private static final String[] POPULAR_DEVICES = {
+      "HTC One",
+      "HTC One (M8)",
+      "HTC One M9",
+      "LG G2",
+      "LG G3",
+      "LG G4",
+      "Droid Ultra",
+      "MOTO G",
+      "MOTO X",
+      "Moto X Style",
+      "Galaxy Note3",
+      "Galaxy Note4",
+      "Galaxy Note5",
+      "Galaxy Y",
+      "Galaxy S3",
+      "Galaxy S4",
+      "Galaxy S5",
+      "Galaxy S6",
+      "Galaxy S6 Edge",
+      "Galaxy S6 Edge+",
+      "Xperia Z2",
+      "ZenFone 2",
+      "ZenFone 4",
+      "ZenFone 5",
+  };
+
   static {
     if (!OUTPUT_DIR.exists()) {
       OUTPUT_DIR.mkdirs();
@@ -157,13 +185,29 @@ public class Main {
 
   private static void createPopularDevicesJsonFile(List<String[]> devices) throws IOException {
     List<String> codenames = CyanogenModScraper.getCodenames();
+    List<String> deviceNames = new ArrayList<>();
     List<DeviceInfo> deviceInfos = new ArrayList<>();
-    for (String[] arr : devices) {
-      if (codenames.contains(arr[2])) {
-        deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
+    List<String[]> commonDevices = new ArrayList<>();
+    devices.stream().filter(arr -> codenames.contains(arr[2])).forEach(arr -> {
+      deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
+      commonDevices.add(arr);
+      deviceNames.add(arr[1]);
+    });
+    for (String name : POPULAR_DEVICES) {
+      if (!deviceNames.contains(name)) {
+        devices.stream().forEach(arr -> {
+          if (arr[1].equals(name)) {
+            deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
+            commonDevices.add(arr);
+
+          }
+        });
       }
     }
-    FileUtils.write(new File(OUTPUT_DIR, "popular-devices.json"), GSON.toJson(deviceInfos));
+    FileUtils.write(new File(OUTPUT_DIR, "popular-devices.json"), PRETTY_GSON.toJson(deviceInfos));
+    FileUtils.write(new File(OUTPUT_DIR, "popular-devices-min.json"), GSON.toJson(deviceInfos));
+    FileUtils.write(new File(OUTPUT_DIR, "common-devices.json"), PRETTY_GSON.toJson(commonDevices));
+    FileUtils.write(new File(OUTPUT_DIR, "common-devices-min.json"), GSON.toJson(commonDevices));
   }
 
   static class Manufacturer {
