@@ -265,8 +265,8 @@ public class Main {
     sb.append("\t\tdefault:\n");
     sb.append("\t\t\treturn android.os.Build.MODEL;\n\t}\n}");
 
-    new File("java").mkdirs();
-    FileUtils.write(new File("java/gist.java"), sb.toString());
+    new File("json").mkdirs();
+    FileUtils.write(new File("json/gist.txt"), sb.toString());
   }
 
   static class Manufacturer {

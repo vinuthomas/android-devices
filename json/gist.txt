@@ -1,0 +1,379 @@
+public static String getDeviceName() {
+	switch (android.os.Build.DEVICE) {
+		case "s3ve3g":
+		case "s3ve3gdsdd":
+		case "s3ve3gds":
+		case "s3ve3gdd":
+			return "Galaxy S3 Neo";
+		case "quark":
+			return "DROID Turbo";
+		case "m7cdug":
+		case "m7cdtu":
+		case "m7":
+		case "m7wlv":
+		case "m7cdwg":
+		case "m7wls":
+			return "HTC One";
+		case "A0001":
+			return "OnePlus One";
+		case "E5823":
+		case "E5803":
+			return "Xperia Z5 Compact";
+		case "deb":
+		case "flo":
+			return "Nexus 7 (2013)";
+		case "htc_m8wl":
+		case "htc_m8dwg":
+		case "htc_m8dug":
+		case "htc_m8":
+		case "htc_m8whl":
+			return "HTC One (M8)";
+		case "villec2":
+		case "ville":
+			return "HTC One S";
+		case "zenltebmc":
+		case "zenltechn":
+		case "zenltelgt":
+		case "zenltetmo":
+		case "zenltespr":
+		case "zenltevzw":
+		case "zenlte":
+		case "zenlteatt":
+		case "zenlteskt":
+		case "zenltektt":
+			return "Galaxy S6 Edge+";
+		case "p1":
+			return "LG G4";
+		case "g3":
+			return "LG G3";
+		case "clark":
+			return "Moto X Style";
+		case "g2":
+			return "LG G2";
+		case "D6503":
+		case "D6502":
+		case "SO-03F":
+		case "D6543":
+			return "Xperia Z2";
+		case "ASUS_T00I":
+		case "ASUS_T00Q":
+			return "ZenFone 4";
+		case "osprey_udstv":
+		case "thea_umtsds":
+		case "falcon_umts":
+		case "thea":
+		case "titan_umtsds":
+		case "peregrine":
+		case "titan_umts":
+			return "MOTO G";
+		case "kyleprods":
+			return "Galaxy S Duos2";
+		case "ASUS_Z00RD_7":
+		case "ASUS_Z00RD_5":
+			return "ZenFone 2";
+		case "vivalto3gvn":
+			return "Galaxy S Duos3";
+		case "GT-S5368":
+		case "SCH-i509":
+		case "GT-S5360T":
+		case "SCH-I509":
+		case "GT-S5369":
+		case "GT-S5360":
+		case "GT-S5360L":
+		case "GT-S5360B":
+		case "GT-S5363":
+			return "Galaxy Y";
+		case "shamu":
+			return "Nexus 6";
+		case "kanas":
+			return "Galaxy Core 2";
+		case "toroplus":
+		case "maguro":
+		case "toro":
+			return "Galaxy Nexus";
+		case "hammerhead":
+			return "Nexus 5";
+		case "402SO":
+		case "SO-03G":
+		case "SOV31":
+			return "Xperia Z4";
+		case "p990":
+		case "p990_CIS-xxx":
+		case "star":
+		case "star_450-05":
+		case "su660":
+		case "p990_EUR-xx":
+		case "p990hN":
+		case "p999":
+		case "p990_262-xx":
+			return "Optimus 2X";
+		case "surnia_uds":
+		case "condor_cdma":
+		case "condor_umts":
+		case "condor_umtsds":
+		case "otus":
+		case "otus_ds":
+		case "surnia_cdma":
+		case "surnia_umts":
+		case "surnia_udstv":
+			return "MOTO E";
+		case "goldenltevzw":
+		case "goldenlteatt":
+		case "golden":
+		case "goldenve3g":
+		case "goldenltebmc":
+			return "Galaxy S3 Mini";
+		case "D6603":
+		case "401SO":
+		case "SOL26":
+		case "D6643":
+		case "D6653":
+		case "SO-01G":
+		case "leo":
+		case "D6616":
+			return "Xperia Z3";
+		case "flounder":
+			return "Nexus 9";
+		case "cosmo_450-05":
+		case "p920":
+		case "cosmo_EUR-XXX":
+		case "su760":
+		case "cosmo_MEA-XXX":
+			return "Optimus 3D";
+		case "gprimelteusc":
+		case "grandprimeveltezt":
+		case "grandprimelte":
+		case "fortunaltezh":
+		case "gprimeltetfnvzw":
+		case "fortunalte":
+		case "gprimeltecan":
+		case "fortunaltectc":
+		case "grandprimevelteltn":
+		case "gprimeltespr":
+		case "fortuna3gdtv":
+		case "gprimeltetmo":
+		case "fortuna3g":
+		case "grandprimeve3g":
+		case "fortunaltezt":
+		case "grandprimelteaio":
+		case "grandprimevelte":
+		case "grandprimeve3gdtv":
+			return "Galaxy Grand Prime";
+		case "ms013g":
+		case "ms01lte":
+		case "ms013gdtv":
+		case "ms01ltelgt":
+		case "ms013gss":
+		case "ms01lteskt":
+		case "ms01ltektt":
+			return "Galaxy Grand2";
+		case "ASUS_T00F1":
+		case "ASUS_T00K":
+		case "ASUS_T00J":
+		case "ASUS_T00F":
+		case "ASUS_T00J1":
+			return "ZenFone 5";
+		case "grouper":
+		case "tilapia":
+			return "Nexus 7 (2012)";
+		case "ghost":
+		case "victara":
+			return "MOTO X";
+		case "zeroltektt":
+		case "zeroltechn":
+		case "zerolteacg":
+		case "zerolteusc":
+		case "zeroltevzw":
+		case "zeroltelra":
+		case "zerolteskt":
+		case "zeroltelgt":
+		case "SCV31":
+		case "zeroltebmc":
+		case "zeroltetmo":
+		case "zeroltespr":
+		case "zerolte":
+		case "zerolteatt":
+		case "404SC":
+			return "Galaxy S6 Edge";
+		case "htc_himauhl":
+		case "htc_himawhl":
+		case "htc_himaulatt":
+		case "htc_himaul":
+		case "htc_himawl":
+			return "HTC One M9";
+		case "klte":
+		case "kltektt":
+		case "klteduoszn":
+		case "kltecan":
+		case "klteMetroPCS":
+		case "lentisltelgt":
+		case "lentislteskt":
+		case "klteacg":
+		case "klteusc":
+		case "SCL23":
+		case "klteaio":
+		case "kltelra":
+		case "klteskt":
+		case "lentisltektt":
+		case "klteatt":
+		case "kltevzw":
+		case "kltespr":
+		case "kwifi":
+		case "kltetmo":
+		case "k3g":
+		case "kltelgt":
+			return "Galaxy S5";
+		case "zerofltechn":
+		case "zeroflteaio":
+		case "zeroflte":
+		case "zerofltektt":
+		case "zerofltemtr":
+		case "zeroflteatt":
+		case "zeroflteusc":
+		case "zeroflteacg":
+		case "zerofltelgt":
+		case "zeroflteskt":
+		case "zerofltebmc":
+		case "zerofltelra":
+		case "zerofltectc":
+		case "zerofltevzw":
+		case "zerofltespr":
+		case "zerofltetmo":
+		case "zerofltetfnvzw":
+			return "Galaxy S6";
+		case "SC-03E":
+		case "d2xar":
+		case "d2mtr":
+		case "d2spi":
+		case "d2vmu":
+		case "d2att":
+		case "m0skt":
+		case "d2lterefreshspr":
+		case "d2tmo":
+		case "d2cri":
+		case "m0ctc":
+		case "d2dcm":
+		case "d2can":
+		case "c1lgt":
+		case "m0":
+		case "c1skt":
+		case "m3":
+		case "d2lteMetroPCS":
+		case "d2ltetmo":
+		case "d2usc":
+		case "m3dcm":
+		case "m0chn":
+		case "d2tfnvzw":
+		case "m0apt":
+		case "c1ktt":
+		case "d2tfnspr":
+		case "c1att":
+		case "d2vzw":
+		case "m0ctcduos":
+		case "d2spr":
+		case "m0cmcc":
+			return "Galaxy S3";
+		case "kyletdcmcc":
+		case "kylechn":
+		case "kyleopen":
+			return "Galaxy S Duos";
+		case "jalteskt":
+		case "jfltetmo":
+		case "ks01ltektt":
+		case "jfvelte":
+		case "jaltelgt":
+		case "jfltecri":
+		case "jfltelra":
+		case "jfltetfntmo":
+		case "jflterefreshspr":
+		case "jflteusc":
+		case "ks01ltelgt":
+		case "jflteaio":
+		case "jfltecan":
+		case "ks01lte":
+		case "jfltespr":
+		case "SC-04E":
+		case "jflte":
+		case "jfltevzw":
+		case "jfwifi":
+		case "jfltecsp":
+		case "jfltetfnatt":
+		case "jaltektt":
+		case "jflteatt":
+		case "jsglte":
+		case "ja3g":
+		case "ja3gduosctc":
+		case "jftdd":
+			return "Galaxy S4";
+		case "noblelteusc":
+		case "nobleltechn":
+		case "nobleltektt":
+		case "nobleltecmcc":
+		case "nobleltevzw":
+		case "noblelte":
+		case "nobleltetmo":
+		case "nobleltespr":
+		case "nobleltebmc":
+		case "nobleltehk":
+		case "nobleltelgt":
+		case "noblelteskt":
+		case "noblelteatt":
+			return "Galaxy Note5";
+		case "tre3caltelgt":
+		case "trltechn":
+		case "trlte":
+		case "tre3calteskt":
+		case "trlteusc":
+		case "tre3g":
+		case "treltektt":
+		case "trlteatt":
+		case "trltechnzh":
+		case "tre3caltektt":
+		case "treltelgt":
+		case "trltevzw":
+		case "trltespr":
+		case "trltetmo":
+		case "trelteskt":
+		case "trltecan":
+		case "trelte":
+		case "trhplte":
+			return "Galaxy Note4";
+		case "SC-02F":
+		case "hltelgt":
+		case "hlteskt":
+		case "hltetmo":
+		case "hlte":
+		case "hltespr":
+		case "hlteatt":
+		case "htdlte":
+		case "SCL22":
+		case "hltektt":
+		case "hlteusc":
+		case "hltevzw":
+		case "ha3g":
+		case "hltecan":
+			return "Galaxy Note3";
+		case "t0ltecmcc":
+		case "SC-02E":
+		case "t03gchn":
+		case "t0ltevzw":
+		case "t0ltetmo":
+		case "t03g":
+		case "t0ltespr":
+		case "t0ltelgt":
+		case "t0lteskt":
+		case "t03gcmcc":
+		case "t0lteatt":
+		case "t03gchnduos":
+		case "t0lteusc":
+		case "t03gctc":
+		case "t0lte":
+		case "t0ltektt":
+		case "t0ltedcm":
+		case "t03gcuduos":
+		case "t0ltecan":
+			return "Galaxy Note2";
+		default:
+			return android.os.Build.MODEL;
+	}
+}
