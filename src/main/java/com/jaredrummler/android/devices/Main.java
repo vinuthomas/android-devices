@@ -54,27 +54,57 @@ public class Main {
   private static final File OUTPUT_DIR = new File("json");
 
   private static final String[] POPULAR_DEVICES = {
+      // Acer
+      "Iconia Tab 7",
+      "Iconia Tab 8",
+      "Iconia Tab 10",
+      "Liquid",
+      "Liquid E3",
+      "Liquid Jade",
+      "Liquid Jade S",
+      "Liquid S3",
+      "Liquid Z5",
+
+      // DELL
+      "Venue 7",
+      "Venue 8",
+
       // Asus
       "Nexus 7 (2012)",
       "Nexus 7 (2013)",
       "ZenFone 2",
       "ZenFone 4",
       "ZenFone 5",
+      "Fonepad 7",
+      "MeMO Pad 7",
 
       // HTC
       "Nexus 9",
       "HTC One",
       "HTC One S",
+      "HTC One (E8)",
       "HTC One (M8)",
       "HTC One M9",
 
       // LGE
       "Nexus 5",
+      "LG G Flex",
+      "LG G Flex2",
       "LG G2",
       "LG G3",
       "LG G4",
+      "LG Optimus 3D",
+      "LG Optimus G",
+      "LG Optimus G Pro",
+      "LG Optimus L9",
       "Optimus 2X",
       "Optimus 3D",
+      "Optimus 3D MAX",
+      "Optimus Black",
+      "Optimus L5",
+      "Optimus LTE",
+      "Optimus One",
+      "Optimus Pad",
 
       // MOTOROLA
       "Nexus 6",
@@ -83,13 +113,35 @@ public class Main {
       "MOTO G",
       "MOTO X",
       "Moto X Style",
+      "XOOM",
 
       // OnePlus
       "OnePlus One",
 
       // SAMSUNG
+      "Galaxy A3",
+      "Galaxy A5",
+      "Galaxy A8",
+      "Galaxy Ace Duos",
+      "Galaxy Ace Plus",
+      "Galaxy Ace Style",
+      "Galaxy Core Prime",
+      "Galaxy Core2",
+      "Galaxy Alpha",
+      "Galaxy Ace 4",
+      "Galaxy Ace4",
       "Galaxy Grand Prime",
+      "Galaxy Note 10.1",
+      "Galaxy Note 10.1 2014 Edition",
+      "Galaxy Note Edge",
+      "Galaxy Note Pro 12.2",
+      "Galaxy Tab 10.1",
+      "Galaxy Tab 7.0 Plus",
+      "Galaxy E5",
+      "Galaxy E7",
+      "Galaxy Fame",
       "Galaxy Grand2",
+      "Galaxy Grand Neo",
       "Galaxy S Duos",
       "Galaxy S Duos2",
       "Galaxy S Duos3",
@@ -100,7 +152,9 @@ public class Main {
       "Galaxy Note3",
       "Galaxy Note4",
       "Galaxy Note5",
+      "Galaxy Note3 Neo",
       "Galaxy Y",
+      "Galaxy S2",
       "Galaxy S3",
       "Galaxy S3 Mini",
       "Galaxy S4",
@@ -108,8 +162,16 @@ public class Main {
       "Galaxy S6",
       "Galaxy S6 Edge",
       "Galaxy S6 Edge+",
+      "Nexus 10",
 
       // SONY
+      "Xperia E3",
+      "Xperia S",
+      "Xperia T2 Ultra",
+      "Xperia Tablet S",
+      "Xperia Tablet Z",
+      "Xperia M5",
+      "Xperia M5 Dual",
       "Xperia Z2",
       "Xperia Z3",
       "Xperia Z4",
@@ -242,7 +304,7 @@ public class Main {
     HashMap<String, Set<String>> deviceMap = new HashMap<>();
 
     for (String name : POPULAR_DEVICES) {
-      List<String> list  = new ArrayList<>();
+      List<String> list = new ArrayList<>();
       Set<String> codenames = new HashSet<>();
       devices.stream().filter(arr -> arr[1].equals(name)).forEach(arr -> {
         list.add(arr[2]);

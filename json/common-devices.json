@@ -1,5 +1,179 @@
 [
   [
+    "Acer",
+    "Iconia Tab 7",
+    "acer_aprilia",
+    "A1-713"
+  ],
+  [
+    "Acer",
+    "Iconia Tab 7",
+    "acer_apriliahd",
+    "A1-713HD"
+  ],
+  [
+    "Acer",
+    "Iconia Tab 8",
+    "ducati2fhd",
+    "A1-840FHD"
+  ],
+  [
+    "Acer",
+    "Iconia Tab 8",
+    "ducati2hd",
+    "A1-840"
+  ],
+  [
+    "Acer",
+    "Iconia Tab 8",
+    "ducati2hd3g",
+    "A1-841"
+  ],
+  [
+    "Acer",
+    "Iconia Tab 10",
+    "acer_harley",
+    "A3-A20"
+  ],
+  [
+    "Acer",
+    "Iconia Tab 10",
+    "acer_harleyfhd",
+    "A3-A20FHD"
+  ],
+  [
+    "Acer",
+    "Liquid",
+    "a1",
+    "Acer Liquid"
+  ],
+  [
+    "Acer",
+    "Liquid",
+    "a1",
+    "Acer S100"
+  ],
+  [
+    "Acer",
+    "Liquid",
+    "a1",
+    "Liquid"
+  ],
+  [
+    "Acer",
+    "Liquid E3",
+    "acer_e3",
+    "E380"
+  ],
+  [
+    "Acer",
+    "Liquid E3",
+    "acer_e3n",
+    "E380"
+  ],
+  [
+    "Acer",
+    "Liquid Jade",
+    "acer_S55",
+    "S55"
+  ],
+  [
+    "Acer",
+    "Liquid Jade S",
+    "acer_S56",
+    "S56"
+  ],
+  [
+    "Acer",
+    "Liquid S3",
+    "s3",
+    "S53"
+  ],
+  [
+    "Acer",
+    "Liquid Z5",
+    "acer_ZXL",
+    "Z150"
+  ],
+  [
+    "Dell",
+    "Venue 7",
+    "LW",
+    "Venue 7 3741"
+  ],
+  [
+    "Dell",
+    "Venue 7",
+    "Venue7",
+    "Venue 7 3740"
+  ],
+  [
+    "Dell",
+    "Venue 7",
+    "Venue7",
+    "Venue7 3740"
+  ],
+  [
+    "Dell",
+    "Venue 7",
+    "Venue7",
+    "Venue7 3740 LTE"
+  ],
+  [
+    "Dell",
+    "Venue 7",
+    "thunderbird",
+    "Venue 7 3730"
+  ],
+  [
+    "Dell",
+    "Venue 7",
+    "thunderbird",
+    "Venue 7 HSPA+"
+  ],
+  [
+    "Dell",
+    "Venue 8",
+    "BB",
+    "Venue 8 7840"
+  ],
+  [
+    "Dell",
+    "Venue 8",
+    "BB",
+    "Venue 8 7840 LTE"
+  ],
+  [
+    "Dell",
+    "Venue 8",
+    "Venue8",
+    "Venue 8 3840"
+  ],
+  [
+    "Dell",
+    "Venue 8",
+    "Venue8",
+    "Venue8 3840"
+  ],
+  [
+    "Dell",
+    "Venue 8",
+    "Venue8",
+    "Venue8 3840 LTE"
+  ],
+  [
+    "Dell",
+    "Venue 8",
+    "yellowtail",
+    "Venue 8 3830"
+  ],
+  [
+    "Dell",
+    "Venue 8",
+    "yellowtail",
+    "Venue 8 HSPA+"
+  ],
+  [
     "Asus",
     "Nexus 7 (2012)",
     "grouper",
@@ -82,6 +256,60 @@
     "ZenFone 5",
     "ASUS_T00K",
     "ASUS_T00K"
+  ],
+  [
+    "Asus",
+    "Fonepad 7",
+    "K00Z",
+    "K00Z"
+  ],
+  [
+    "Asus",
+    "Fonepad 7",
+    "K012",
+    "K012"
+  ],
+  [
+    "Asus",
+    "Fonepad 7",
+    "K01N_1",
+    "K01N"
+  ],
+  [
+    "Asus",
+    "Fonepad 7",
+    "K01N_2",
+    "K01N"
+  ],
+  [
+    "Asus",
+    "MeMO Pad 7",
+    "K013",
+    "K013"
+  ],
+  [
+    "Asus",
+    "MeMO Pad 7",
+    "K013C",
+    "K013C"
+  ],
+  [
+    "Asus",
+    "MeMO Pad 7",
+    "K013_1",
+    "K013"
+  ],
+  [
+    "Asus",
+    "MeMO Pad 7",
+    "K017",
+    "K017"
+  ],
+  [
+    "Asus",
+    "MeMO Pad 7",
+    "K01A",
+    "K01A"
   ],
   [
     "HTC",
@@ -196,6 +424,42 @@
     "HTC One S",
     "villec2",
     "HTC Z560e"
+  ],
+  [
+    "HTC",
+    "HTC One (E8)",
+    "htc_mecdwg",
+    "HTC M8Sd"
+  ],
+  [
+    "HTC",
+    "HTC One (E8)",
+    "htc_mectl",
+    "HTC M8St"
+  ],
+  [
+    "HTC",
+    "HTC One (E8)",
+    "htc_mectl",
+    "HTC One_E8"
+  ],
+  [
+    "HTC",
+    "HTC One (E8)",
+    "htc_mecul",
+    "HTC One_E8"
+  ],
+  [
+    "HTC",
+    "HTC One (E8)",
+    "htc_mecul",
+    "HTC_M8Sx"
+  ],
+  [
+    "HTC",
+    "HTC One (E8)",
+    "htc_mecwhl",
+    "0PAJ5"
   ],
   [
     "HTC",
@@ -322,6 +586,132 @@
     "Nexus 5",
     "hammerhead",
     "Nexus 5"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-D950"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-D950G"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-D951"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-D955"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-D956"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-D958"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-D959"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-F340K"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-F340L"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-F340S"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LG-LS995"
+  ],
+  [
+    "LGE",
+    "LG G Flex",
+    "zee",
+    "LGL23"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LG-F510K"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LG-F510L"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LG-F510S"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LG-H950"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LG-H955"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LG-H959"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LGAS995"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LGLS996"
+  ],
+  [
+    "LGE",
+    "LG G Flex2",
+    "z2",
+    "LGUS995"
   ],
   [
     "LGE",
@@ -619,6 +1009,210 @@
   ],
   [
     "LGE",
+    "LG Optimus 3D",
+    "cosmopolitan",
+    "LG-P920"
+  ],
+  [
+    "LGE",
+    "LG Optimus 3D",
+    "cosmopolitan",
+    "LG-P925g"
+  ],
+  [
+    "LGE",
+    "LG Optimus 3D",
+    "cosmopolitan",
+    "LG-SU760"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geeb",
+    "LG-E970"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geeb",
+    "LG-E971"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geeb",
+    "LG-E973"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehdc",
+    "L-01E"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehdc",
+    "LGL21"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-E975"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-E975K"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-E975T"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-E976"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-E977"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-E987"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-F180K"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc",
+    "LG-F180S"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc4g",
+    "LG-F180L"
+  ],
+  [
+    "LGE",
+    "LG Optimus G",
+    "geehrc4g",
+    "LG-LS970"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-E980"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-E980h"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-E981h"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-E986"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-E988"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-E989"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-F240K"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd",
+    "LG-F240S"
+  ],
+  [
+    "LGE",
+    "LG Optimus G Pro",
+    "geefhd4g",
+    "LG-F240L"
+  ],
+  [
+    "LGE",
+    "LG Optimus L9",
+    "u2",
+    "LG-D700"
+  ],
+  [
+    "LGE",
+    "LG Optimus L9",
+    "u2",
+    "LG-P760"
+  ],
+  [
+    "LGE",
+    "LG Optimus L9",
+    "u2",
+    "LG-P765"
+  ],
+  [
+    "LGE",
+    "LG Optimus L9",
+    "u2",
+    "LG-P768"
+  ],
+  [
+    "LGE",
+    "LG Optimus L9",
+    "u2",
+    "LG-P769"
+  ],
+  [
+    "LGE",
+    "LG Optimus L9",
+    "u2",
+    "LG-P778"
+  ],
+  [
+    "LGE",
+    "LG Optimus L9",
+    "u2",
+    "LGMS769"
+  ],
+  [
+    "LGE",
     "Optimus 2X",
     "p990",
     "LG-P990"
@@ -724,6 +1318,342 @@
     "Optimus 3D",
     "su760",
     "LG-SU760"
+  ],
+  [
+    "LGE",
+    "Optimus 3D MAX",
+    "cx2",
+    "LG-P720"
+  ],
+  [
+    "LGE",
+    "Optimus 3D MAX",
+    "cx2",
+    "LG-P720h"
+  ],
+  [
+    "LGE",
+    "Optimus 3D MAX",
+    "cx2",
+    "LG-P725"
+  ],
+  [
+    "LGE",
+    "Optimus 3D MAX",
+    "cx2",
+    "LG-SU870"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "LGL85C",
+    "LGL85C"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "black",
+    "LG-KU5900"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "blackg",
+    "LG-P970"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "blackg",
+    "LG-P970h"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_214-03",
+    "LG-P970"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_262-XXX",
+    "LG-P970"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_302-220",
+    "LG-P970g"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_334-020",
+    "LG-P970h"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_724-xxx",
+    "LG-P970h"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_ARE-XXX",
+    "LG-P970"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_EUR-XXX",
+    "LG-P970"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "bproj_sea-xxx",
+    "LG-P970"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "ku5900",
+    "LG-KU5900"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "lgp970",
+    "LG-P970"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "lgp970",
+    "LG-P970g"
+  ],
+  [
+    "LGE",
+    "Optimus Black",
+    "lgp970",
+    "LG-P970h"
+  ],
+  [
+    "LGE",
+    "Optimus L5",
+    "m4",
+    "LG-E610"
+  ],
+  [
+    "LGE",
+    "Optimus L5",
+    "m4",
+    "LG-E610v"
+  ],
+  [
+    "LGE",
+    "Optimus L5",
+    "m4",
+    "LG-E612"
+  ],
+  [
+    "LGE",
+    "Optimus L5",
+    "m4",
+    "LG-E612f"
+  ],
+  [
+    "LGE",
+    "Optimus L5",
+    "m4",
+    "LG-E612g"
+  ],
+  [
+    "LGE",
+    "Optimus L5",
+    "m4",
+    "LG-E617G"
+  ],
+  [
+    "LGE",
+    "Optimus L5",
+    "m4",
+    "LG-L40G"
+  ],
+  [
+    "LGE",
+    "Optimus LTE",
+    "i_dcm",
+    "L-01D"
+  ],
+  [
+    "LGE",
+    "Optimus LTE",
+    "i_skt",
+    "LG-SU640"
+  ],
+  [
+    "LGE",
+    "Optimus LTE",
+    "i_u",
+    "LG-LU6200"
+  ],
+  [
+    "LGE",
+    "Optimus LTE",
+    "iproj",
+    "LG-P936"
+  ],
+  [
+    "LGE",
+    "Optimus LTE",
+    "lgp930",
+    "LG-P930"
+  ],
+  [
+    "LGE",
+    "Optimus LTE",
+    "lgp935",
+    "LG-P935"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "ku3700",
+    "LG-KU3700"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "lu3700",
+    "LG-LU3700"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "su370",
+    "LG-SU370"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunder_kor-05",
+    "LG-SU370"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunder_kor-08",
+    "LG-KU3700"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunder_kor-08",
+    "LG-LU3700"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "LG-CX670"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "LG-LW690"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "LG-MS690"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "LG-US670"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "LS670"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "VM670"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "Vortex"
+  ],
+  [
+    "LGE",
+    "Optimus One",
+    "thunderc",
+    "thunderc"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "l06c",
+    "L-06C"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v900",
+    "LG-V900"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v900asia",
+    "LG-V900"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v901ar",
+    "LG-V901"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v901kr",
+    "LG-V901"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v901tr",
+    "LG-V901"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v905r",
+    "LG-V905R"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v909",
+    "LG-V909"
+  ],
+  [
+    "LGE",
+    "Optimus Pad",
+    "v909mkt",
+    "LG-V909"
   ],
   [
     "Motorola",
@@ -966,6 +1896,48 @@
     "XT1575"
   ],
   [
+    "Motorola",
+    "XOOM",
+    "stingray",
+    "Xoom"
+  ],
+  [
+    "Motorola",
+    "XOOM",
+    "umts_everest",
+    "MZ601"
+  ],
+  [
+    "Motorola",
+    "XOOM",
+    "umts_hubble",
+    "MZ601"
+  ],
+  [
+    "Motorola",
+    "XOOM",
+    "umts_hubble",
+    "MZ605"
+  ],
+  [
+    "Motorola",
+    "XOOM",
+    "wifi_hubble",
+    "MZ604"
+  ],
+  [
+    "Motorola",
+    "XOOM",
+    "wifi_hubble",
+    "MZ606"
+  ],
+  [
+    "Motorola",
+    "XOOM",
+    "wingray",
+    "Xoom"
+  ],
+  [
     "OnePlus",
     "OnePlus One",
     "A0001",
@@ -976,6 +1948,618 @@
     "OnePlus One",
     "A0001",
     "One"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a33g",
+    "SM-A300H"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3lte",
+    "SM-A300F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3lte",
+    "SM-A300M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3lte",
+    "SM-A300XZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3lte",
+    "SM-A300YZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ltechn",
+    "SM-A3000"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ltechn",
+    "SM-A300X"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ltectc",
+    "SM-A3009"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ltedd",
+    "SM-A300G"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3lteslk",
+    "SM-A300F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ltezh",
+    "SM-A3000"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ltezt",
+    "SM-A300YZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ulte",
+    "SM-A300FU"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ulte",
+    "SM-A300XU"
+  ],
+  [
+    "Samsung",
+    "Galaxy A3",
+    "a3ulte",
+    "SM-A300Y"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a53g",
+    "SM-A500H"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5lte",
+    "SM-A500F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5lte",
+    "SM-A500G"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5lte",
+    "SM-A500M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5lte",
+    "SM-A500XZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ltechn",
+    "SM-A5000"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ltechn",
+    "SM-A500X"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ltectc",
+    "SM-A5009"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ltezh",
+    "SM-A5000"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ltezt",
+    "SM-A500YZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ulte",
+    "SM-A500FU"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ulte",
+    "SM-A500Y"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ultektt",
+    "SM-A500K"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ultelgt",
+    "SM-A500L"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ulteskt",
+    "SM-A500F1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A5",
+    "a5ulteskt",
+    "SM-A500S"
+  ],
+  [
+    "Samsung",
+    "Galaxy A8",
+    "a8elte",
+    "SM-A800F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A8",
+    "a8elte",
+    "SM-A800YZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy A8",
+    "a8elteskt",
+    "SM-A800S"
+  ],
+  [
+    "Samsung",
+    "Galaxy A8",
+    "a8ltechn",
+    "SM-A8000"
+  ],
+  [
+    "Samsung",
+    "Galaxy A8",
+    "a8ltechn",
+    "SM-A800X"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "GT-S6352",
+    "GT-S6352"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "GT-S6802",
+    "GT-S6802"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "GT-S6802B",
+    "GT-S6802B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "SCH-I579",
+    "SCH-i579"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "SCH-I589",
+    "SCH-I589"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "SCH-I589",
+    "SCH-i589"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "SCH-i579",
+    "SCH-i579"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Duos",
+    "SCH-i589",
+    "SCH-i589"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Plus",
+    "GT-S7500",
+    "GT-S7500"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Plus",
+    "GT-S7500L",
+    "GT-S7500L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Plus",
+    "GT-S7500T",
+    "GT-S7500T"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Plus",
+    "GT-S7500W",
+    "GT-S7500W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Plus",
+    "GT-S7508",
+    "GT-S7508"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Style",
+    "heat3gtfnvzw",
+    "SM-S765C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Style",
+    "heat3gtfnvzw",
+    "SM-S766C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Style",
+    "heatnfc3g",
+    "SM-G310HN"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace Style",
+    "heatqlte",
+    "SM-G357FZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "core33g",
+    "SM-G360H"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "core33g",
+    "SM-G360HU"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimelte",
+    "SM-G360F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimelte",
+    "SM-G360FY"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimelte",
+    "SM-G360M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimelteaio",
+    "SAMSUNG-SM-G360AZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimeltespr",
+    "SM-G360P"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimeltetfnvzw",
+    "SM-S820L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimeltevzw",
+    "SM-G360V"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimeve3g",
+    "SM-G361H"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimeve3g",
+    "SM-G361HU"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimevelte",
+    "SM-G361F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "coreprimevelte",
+    "SM-G361M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "cprimeltemtr",
+    "SM-G360T1"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "cprimeltetmo",
+    "SM-G360T"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "rossalte",
+    "SM-G3606"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "rossalte",
+    "SM-G3608"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "rossaltectc",
+    "SM-G3609"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core Prime",
+    "rossaltexsa",
+    "SM-G360GY"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core2",
+    "kanas",
+    "SM-G355H"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core2",
+    "kanas",
+    "SM-G355HQ"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core2",
+    "kanas",
+    "SM-G355M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core2",
+    "kanas3g",
+    "SM-G3556D"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core2",
+    "kanas3gcmcc",
+    "SM-G3558"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core2",
+    "kanas3gctc",
+    "SM-G3559"
+  ],
+  [
+    "Samsung",
+    "Galaxy Core2",
+    "kanas3gnfc",
+    "SM-G355HN"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "slte",
+    "SM-G850F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "slte",
+    "SM-G850FQ"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "slte",
+    "SM-G850M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "slte",
+    "SM-G850X"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "slte",
+    "SM-G850Y"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "slteatt",
+    "SAMSUNG-SM-G850A"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "sltecan",
+    "SM-G850W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "sltechn",
+    "SM-G8508S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "sltektt",
+    "SM-G850K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "sltelgt",
+    "SM-G850L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Alpha",
+    "slteskt",
+    "SM-G850S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace 4",
+    "vivaltods5m",
+    "SM-G313HU"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace 4",
+    "vivaltods5m",
+    "SM-G313HY"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace 4",
+    "vivaltods5m",
+    "SM-G313M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace 4",
+    "vivaltods5m",
+    "SM-G313MY"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivalto3g",
+    "SM-G313ML"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivalto3mve3g",
+    "SM-G316H"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivalto5mve3g",
+    "SM-G316HU"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivalto5mve3g",
+    "SM-G316M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivalto5mve3g",
+    "SM-G316MY"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivaltolte",
+    "SM-G313F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivaltolte",
+    "SM-G313MU"
+  ],
+  [
+    "Samsung",
+    "Galaxy Ace4",
+    "vivaltonfc3g",
+    "SM-G313HN"
   ],
   [
     "Samsung",
@@ -1111,6 +2695,606 @@
   ],
   [
     "Samsung",
+    "Galaxy Note 10.1",
+    "lt033g",
+    "SM-P601"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "lt033g",
+    "SM-P602"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "lt03ltektt",
+    "SM-P605K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "lt03ltelgt",
+    "SM-P605L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "lt03lteskt",
+    "SM-P605S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notelte",
+    "GT-N8020"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4noteltektt",
+    "SHV-E230K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4noteltelgt",
+    "SHV-E230L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notelteskt",
+    "SHV-E230S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4noteltespr",
+    "SPH-P600"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notelteusc",
+    "SCH-I925U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4noteltevzw",
+    "SCH-I925"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4noterf",
+    "GT-N8000"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4noterf",
+    "GT-N8005"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4noterfktt",
+    "SHW-M480K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notewifi",
+    "GT-N8013"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notewifi43241any",
+    "SHW-M486W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notewifiany",
+    "SHW-M480W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notewifiktt",
+    "SHW-M485W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1",
+    "p4notewifiww",
+    "GT-N8010"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt033g",
+    "SM-P601"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt03lte",
+    "SM-P605"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt03lte",
+    "SM-P605M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt03ltetmo",
+    "SM-P607T"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt03ltevzw",
+    "SM-P605V"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt03wifi",
+    "SM-P600"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt03wifikx",
+    "SM-P600"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "lt03wifiue",
+    "SM-P600"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "SCL24",
+    "SCL24"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbeltektt",
+    "SM-N915K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbeltelgt",
+    "SM-N915L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbelteskt",
+    "SM-N915S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tblte",
+    "SM-N9150"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tblte",
+    "SM-N915F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tblte",
+    "SM-N915FY"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tblte",
+    "SM-N915G"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tblte",
+    "SM-N915X"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tblteatt",
+    "SAMSUNG-SM-N915A"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbltecan",
+    "SM-N915W8"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbltechn",
+    "SM-N9150"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbltespr",
+    "SM-N915P"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbltetmo",
+    "SM-N915T"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbltetmo",
+    "SM-N915T3"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tblteusc",
+    "SM-N915R4"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Edge",
+    "tbltevzw",
+    "SM-N915V"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "v1a3g",
+    "SM-P901"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "v1awifi",
+    "SM-P900"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "v1awifikx",
+    "SM-P900"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "viennalte",
+    "SM-P905"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "viennalte",
+    "SM-P905M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "viennalteatt",
+    "SAMSUNG-SM-P907A"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "viennaltekx",
+    "SM-P905F0"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note Pro 12.2",
+    "viennaltevzw",
+    "SM-P905V"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "GT-P7500",
+    "GT-P7500"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "GT-P7500D",
+    "GT-P7500D"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "GT-P7503",
+    "GT-P7503"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "GT-P7510",
+    "GT-P7510"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "SC-01D",
+    "SC-01D"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "SCH-I905",
+    "SCH-I905"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "SGH-T859",
+    "SGH-T859"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "SHW-M300W",
+    "SHW-M300W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "SHW-M380K",
+    "SHW-M380K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "SHW-M380S",
+    "SHW-M380S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 10.1",
+    "SHW-M380W",
+    "SHW-M380W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "GT-P6200",
+    "GT-P6200"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "GT-P6200L",
+    "GT-P6200L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "GT-P6201",
+    "GT-P6201"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "GT-P6210",
+    "GT-P6210"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "GT-P6211",
+    "GT-P6211"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "SC-02D",
+    "SC-02D"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "SGH-T869",
+    "SGH-T869"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab 7.0 Plus",
+    "SHW-M430W",
+    "SHW-M430W"
+  ],
+  [
+    "Samsung",
+    "Galaxy E5",
+    "e53g",
+    "SM-E500H"
+  ],
+  [
+    "Samsung",
+    "Galaxy E5",
+    "e5lte",
+    "SM-E500F"
+  ],
+  [
+    "Samsung",
+    "Galaxy E5",
+    "e5lte",
+    "SM-E500M"
+  ],
+  [
+    "Samsung",
+    "Galaxy E5",
+    "e5ltetfnvzw",
+    "SM-S978L"
+  ],
+  [
+    "Samsung",
+    "Galaxy E5",
+    "e5ltetw",
+    "SM-E500YZ"
+  ],
+  [
+    "Samsung",
+    "Galaxy E7",
+    "e73g",
+    "SM-E700H"
+  ],
+  [
+    "Samsung",
+    "Galaxy E7",
+    "e7lte",
+    "SM-E700F"
+  ],
+  [
+    "Samsung",
+    "Galaxy E7",
+    "e7lte",
+    "SM-E700M"
+  ],
+  [
+    "Samsung",
+    "Galaxy E7",
+    "e7ltechn",
+    "SM-E7000"
+  ],
+  [
+    "Samsung",
+    "Galaxy E7",
+    "e7ltectc",
+    "SM-E7009"
+  ],
+  [
+    "Samsung",
+    "Galaxy E7",
+    "e7ltehktw",
+    "SM-E7000"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "SCH-I629",
+    "SCH-I629"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevis",
+    "GT-S6810"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevis",
+    "GT-S6810B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevis",
+    "GT-S6810E"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevis",
+    "GT-S6810L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevis3g",
+    "GT-S6812i"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevis3gcmcc",
+    "GT-S6818"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevis3gcmcc",
+    "GT-S6818V"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisds",
+    "GT-S6812"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisds",
+    "GT-S6812B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisnvess",
+    "GT-S6790N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisp",
+    "GT-S6810M"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisp",
+    "GT-S6810P"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisvess",
+    "GT-S6790"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisvess",
+    "GT-S6790E"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisvess",
+    "GT-S6790L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Fame",
+    "nevisw",
+    "GT-S6812C"
+  ],
+  [
+    "Samsung",
     "Galaxy Grand2",
     "ms013g",
     "SM-G7102"
@@ -1180,6 +3364,42 @@
     "Galaxy Grand2",
     "ms01lteskt",
     "SM-G710S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Grand Neo",
+    "baffinlite",
+    "GT-I9060"
+  ],
+  [
+    "Samsung",
+    "Galaxy Grand Neo",
+    "baffinlite",
+    "GT-I9060L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Grand Neo",
+    "baffinlite",
+    "GT-I9082C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Grand Neo",
+    "baffinlitedtv",
+    "GT-I9063T"
+  ],
+  [
+    "Samsung",
+    "Galaxy Grand Neo",
+    "baffinq3g",
+    "GT-I9168"
+  ],
+  [
+    "Samsung",
+    "Galaxy Grand Neo",
+    "baffinq3g",
+    "GT-I9168I"
   ],
   [
     "Samsung",
@@ -1813,6 +4033,60 @@
   ],
   [
     "Samsung",
+    "Galaxy Note3 Neo",
+    "frescoltektt",
+    "SM-N750K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "frescoltelgt",
+    "SM-N750L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "frescolteskt",
+    "SM-N750S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "hl3g",
+    "SM-N750"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "hl3g",
+    "SM-N7500Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "hl3gds",
+    "SM-N7502"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "hllte",
+    "SM-N7505"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "hllte",
+    "SM-N7505L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note3 Neo",
+    "hllte",
+    "SM-N7507"
+  ],
+  [
+    "Samsung",
     "Galaxy Y",
     "GT-S5360",
     "GT-S5360"
@@ -1864,6 +4138,108 @@
     "Galaxy Y",
     "SCH-i509",
     "SCH-i509"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "GT-I9100",
+    "GT-I9100"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "GT-I9100M",
+    "GT-I9100M"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "GT-I9100P",
+    "GT-I9100P"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "GT-I9100T",
+    "GT-I9100T"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "GT-I9103",
+    "GT-I9103"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "GT-I9108",
+    "GT-I9108"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "GT-I9210T",
+    "GT-I9210T"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SC-02C",
+    "SC-02C"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SCH-R760X",
+    "SCH-R760X"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SGH-I777",
+    "SAMSUNG-SGH-I777"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SGH-S959G",
+    "SGH-S959G"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SGH-T989",
+    "SGH-T989"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SHV-E110S",
+    "SHV-E110S"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SHW-M250K",
+    "SHW-M250K"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SHW-M250L",
+    "SHW-M250L"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "SHW-M250S",
+    "SHW-M250S"
+  ],
+  [
+    "Samsung",
+    "Galaxy S2",
+    "t1cmcc",
+    "GT-I9108"
   ],
   [
     "Samsung",
@@ -2824,6 +5200,180 @@
     "Galaxy S6 Edge+",
     "zenltevzw",
     "SM-G928V"
+  ],
+  [
+    "Samsung",
+    "Nexus 10",
+    "manta",
+    "Nexus 10"
+  ],
+  [
+    "Sony",
+    "Xperia E3",
+    "D2202",
+    "D2202"
+  ],
+  [
+    "Sony",
+    "Xperia E3",
+    "D2203",
+    "D2203"
+  ],
+  [
+    "Sony",
+    "Xperia E3",
+    "D2206",
+    "D2206"
+  ],
+  [
+    "Sony",
+    "Xperia E3",
+    "D2243",
+    "D2243"
+  ],
+  [
+    "Sony",
+    "Xperia S",
+    "LT26i",
+    "LT26i"
+  ],
+  [
+    "Sony Ericsson",
+    "Xperia S",
+    "LT26i",
+    "LT26i"
+  ],
+  [
+    "Sony Ericsson",
+    "Xperia S",
+    "SO-02D",
+    "SO-02D"
+  ],
+  [
+    "Sony",
+    "Xperia T2 Ultra",
+    "D5303",
+    "D5303"
+  ],
+  [
+    "Sony",
+    "Xperia T2 Ultra",
+    "D5306",
+    "D5306"
+  ],
+  [
+    "Sony",
+    "Xperia T2 Ultra",
+    "D5316",
+    "D5316"
+  ],
+  [
+    "Sony",
+    "Xperia T2 Ultra",
+    "D5316N",
+    "D5316N"
+  ],
+  [
+    "Sony",
+    "Xperia T2 Ultra",
+    "D5322",
+    "D5322"
+  ],
+  [
+    "Sony",
+    "Xperia Tablet S",
+    "txs03",
+    "SGPT12"
+  ],
+  [
+    "Sony",
+    "Xperia Tablet S",
+    "txs03",
+    "SGPT13"
+  ],
+  [
+    "Sony",
+    "Xperia Tablet Z",
+    "SGP311",
+    "SGP311"
+  ],
+  [
+    "Sony",
+    "Xperia Tablet Z",
+    "SGP312",
+    "SGP312"
+  ],
+  [
+    "Sony",
+    "Xperia Tablet Z",
+    "SGP321",
+    "SGP321"
+  ],
+  [
+    "Sony",
+    "Xperia Tablet Z",
+    "SGP351",
+    "SGP351"
+  ],
+  [
+    "Sony Ericsson",
+    "Xperia Tablet Z",
+    "SGP311",
+    "SGP311"
+  ],
+  [
+    "Sony Ericsson",
+    "Xperia Tablet Z",
+    "SGP321",
+    "SGP321"
+  ],
+  [
+    "Sony Ericsson",
+    "Xperia Tablet Z",
+    "SGP341",
+    "SGP341"
+  ],
+  [
+    "Sony Ericsson",
+    "Xperia Tablet Z",
+    "SO-03E",
+    "SO-03E"
+  ],
+  [
+    "Sony",
+    "Xperia M5",
+    "E5603",
+    "E5603"
+  ],
+  [
+    "Sony",
+    "Xperia M5",
+    "E5606",
+    "E5606"
+  ],
+  [
+    "Sony",
+    "Xperia M5",
+    "E5653",
+    "E5653"
+  ],
+  [
+    "Sony",
+    "Xperia M5 Dual",
+    "E5633",
+    "E5633"
+  ],
+  [
+    "Sony",
+    "Xperia M5 Dual",
+    "E5643",
+    "E5643"
+  ],
+  [
+    "Sony",
+    "Xperia M5 Dual",
+    "E5663",
+    "E5663"
   ],
   [
     "Sony",
