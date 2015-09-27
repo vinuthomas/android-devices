@@ -31,10 +31,13 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 public class Main {
 
@@ -78,8 +81,6 @@ public class Main {
       "DROID Turbo",
       "MOTO E",
       "MOTO G",
-      "MOTO G LTE",
-      "MOTO G w/4G LTE",
       "MOTO X",
       "Moto X Style",
 
@@ -95,7 +96,6 @@ public class Main {
       "Galaxy Core 2",
       "Galaxy S3 Neo",
       "Galaxy Nexus",
-      "Galaxy Note II",
       "Galaxy Note2",
       "Galaxy Note3",
       "Galaxy Note4",
@@ -129,6 +129,7 @@ public class Main {
     createDeviceJsonFiles(devices);
     createManufacturerJsonFiles(devices);
     createPopularDevicesJsonFile(devices);
+    writeJavaSwitchStatement(devices);
   }
 
   private static List<String[]> getDeviceList(String xls) throws IOException {
@@ -234,6 +235,38 @@ public class Main {
     FileUtils.write(new File(OUTPUT_DIR, "popular-devices-min.json"), GSON.toJson(deviceInfos));
     FileUtils.write(new File(OUTPUT_DIR, "common-devices.json"), PRETTY_GSON.toJson(commonDevices));
     FileUtils.write(new File(OUTPUT_DIR, "common-devices-min.json"), GSON.toJson(commonDevices));
+  }
+
+  private static void writeJavaSwitchStatement(List<String[]> devices) throws IOException {
+    StringBuilder sb = new StringBuilder();
+    HashMap<String, Set<String>> deviceMap = new HashMap<>();
+
+    for (String name : POPULAR_DEVICES) {
+      List<String> list  = new ArrayList<>();
+      Set<String> codenames = new HashSet<>();
+      devices.stream().filter(arr -> arr[1].equals(name)).forEach(arr -> {
+        list.add(arr[2]);
+      });
+      Collections.sort(list);
+      codenames.addAll(list);
+      deviceMap.put(name, codenames);
+    }
+
+    // TODO: Use JavaPoet and create a working class.
+    sb.append("public static String getDeviceName() {\n");
+    sb.append("\tswitch (android.os.Build.DEVICE) {\n");
+    for (Map.Entry<String, Set<String>> entry : deviceMap.entrySet()) {
+      Set<String> codenames = entry.getValue();
+      for (String codename : codenames) {
+        sb.append("\t\tcase \"" + codename + "\":\n");
+      }
+      sb.append("\t\t\treturn \"" + entry.getKey() + "\";\n");
+    }
+    sb.append("\t\tdefault:\n");
+    sb.append("\t\t\treturn android.os.Build.MODEL;\n\t}\n}");
+
+    new File("java").mkdirs();
+    FileUtils.write(new File("java/gist.java"), sb.toString());
   }
 
   static class Manufacturer {

@@ -907,36 +907,6 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "MOTO G LTE",
-    "codename": "peregrine",
-    "model": "XT1039"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G LTE",
-    "codename": "peregrine",
-    "model": "XT1040"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G LTE",
-    "codename": "peregrine",
-    "model": "XT1045"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G w/4G LTE",
-    "codename": "peregrine",
-    "model": "XT1039"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G w/4G LTE",
-    "codename": "peregrine",
-    "model": "XT1040"
-  },
-  {
-    "manufacturer": "Motorola",
     "market_name": "MOTO X",
     "codename": "ghost",
     "model": "XT1053"
@@ -1312,12 +1282,6 @@
     "market_name": "Galaxy Nexus",
     "codename": "toroplus",
     "model": "Galaxy Nexus"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note II",
-    "codename": "t0lteatt",
-    "model": "SAMSUNG-SGH-I317"
   },
   {
     "manufacturer": "Samsung",
