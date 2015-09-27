@@ -31,7 +31,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -51,32 +50,70 @@ public class Main {
 
   private static final File OUTPUT_DIR = new File("json");
 
-  // popular devices that may not be scraped from cyanogenmod
   private static final String[] POPULAR_DEVICES = {
+      // Asus
+      "Nexus 7 (2012)",
+      "Nexus 7 (2013)",
+      "ZenFone 2",
+      "ZenFone 4",
+      "ZenFone 5",
+
+      // HTC
+      "Nexus 9",
       "HTC One",
+      "HTC One S",
       "HTC One (M8)",
       "HTC One M9",
+
+      // LGE
+      "Nexus 5",
       "LG G2",
       "LG G3",
       "LG G4",
-      "Droid Ultra",
+      "Optimus 2X",
+      "Optimus 3D",
+
+      // MOTOROLA
+      "Nexus 6",
+      "DROID Turbo",
+      "MOTO E",
       "MOTO G",
+      "MOTO G LTE",
+      "MOTO G w/4G LTE",
       "MOTO X",
       "Moto X Style",
+
+      // OnePlus
+      "OnePlus One",
+
+      // SAMSUNG
+      "Galaxy Grand Prime",
+      "Galaxy Grand2",
+      "Galaxy S Duos",
+      "Galaxy S Duos2",
+      "Galaxy S Duos3",
+      "Galaxy Core 2",
+      "Galaxy S3 Neo",
+      "Galaxy Nexus",
+      "Galaxy Note II",
+      "Galaxy Note2",
       "Galaxy Note3",
       "Galaxy Note4",
       "Galaxy Note5",
       "Galaxy Y",
       "Galaxy S3",
+      "Galaxy S3 Mini",
       "Galaxy S4",
       "Galaxy S5",
       "Galaxy S6",
       "Galaxy S6 Edge",
       "Galaxy S6 Edge+",
+
+      // SONY
       "Xperia Z2",
-      "ZenFone 2",
-      "ZenFone 4",
-      "ZenFone 5",
+      "Xperia Z3",
+      "Xperia Z4",
+      "Xperia Z5 Compact"
   };
 
   static {
@@ -185,31 +222,13 @@ public class Main {
   }
 
   private static void createPopularDevicesJsonFile(List<String[]> devices) throws IOException {
-    List<String> excludedCodenames = Arrays.asList(new String[]{
-        "hummingbird", "ovation", "falcon", "d800", "liberty", "bravo", "dlx", "desirec", "inc",
-        "u8150", "cdma_droid2we"
-    });
-
-    List<String> codenames = CyanogenModScraper.getCodenames();
-    List<String> deviceNames = new ArrayList<>();
     List<DeviceInfo> deviceInfos = new ArrayList<>();
     List<String[]> commonDevices = new ArrayList<>();
-    devices.stream()
-        .filter(arr -> codenames.contains(arr[2]) && !arr[1].isEmpty() && !arr[1].equals(
-            arr[3]) && !excludedCodenames.contains(arr[2])).forEach(arr -> {
-      deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
-      commonDevices.add(arr);
-      deviceNames.add(arr[1]);
-    });
     for (String name : POPULAR_DEVICES) {
-      if (!deviceNames.contains(name)) {
-        devices.stream().forEach(arr -> {
-          if (!arr[1].isEmpty() && arr[1].equals(name) && !arr[1].equals(arr[3])) {
-            deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
-            commonDevices.add(arr);
-          }
-        });
-      }
+      devices.stream().filter(arr -> arr[1].equals(name)).forEach(arr -> {
+        deviceInfos.add(new DeviceInfo(arr[0], arr[1], arr[2], arr[3]));
+        commonDevices.add(arr);
+      });
     }
     FileUtils.write(new File(OUTPUT_DIR, "popular-devices.json"), PRETTY_GSON.toJson(deviceInfos));
     FileUtils.write(new File(OUTPUT_DIR, "popular-devices-min.json"), GSON.toJson(deviceInfos));
