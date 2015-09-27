@@ -2815,54 +2815,6 @@
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt033g",
-    "model": "SM-P601"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt03lte",
-    "model": "SM-P605"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt03lte",
-    "model": "SM-P605M"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt03ltetmo",
-    "model": "SM-P607T"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt03ltevzw",
-    "model": "SM-P605V"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt03wifi",
-    "model": "SM-P600"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt03wifikx",
-    "model": "SM-P600"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note 10.1 2014 Edition",
-    "codename": "lt03wifiue",
-    "model": "SM-P600"
-  },
-  {
-    "manufacturer": "Samsung",
     "market_name": "Galaxy Note Edge",
     "codename": "SCL24",
     "model": "SCL24"
@@ -3436,12 +3388,6 @@
     "market_name": "Galaxy S Duos3",
     "codename": "vivalto3gvn",
     "model": "SM-G313HZ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Core 2",
-    "codename": "kanas",
-    "model": "SM-G355H"
   },
   {
     "manufacturer": "Samsung",

@@ -38,6 +38,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeMap;
 
 public class Main {
 
@@ -132,7 +133,6 @@ public class Main {
       "Galaxy Ace4",
       "Galaxy Grand Prime",
       "Galaxy Note 10.1",
-      "Galaxy Note 10.1 2014 Edition",
       "Galaxy Note Edge",
       "Galaxy Note Pro 12.2",
       "Galaxy Tab 10.1",
@@ -145,7 +145,6 @@ public class Main {
       "Galaxy S Duos",
       "Galaxy S Duos2",
       "Galaxy S Duos3",
-      "Galaxy Core 2",
       "Galaxy S3 Neo",
       "Galaxy Nexus",
       "Galaxy Note2",
@@ -301,7 +300,9 @@ public class Main {
 
   private static void writeJavaSwitchStatement(List<String[]> devices) throws IOException {
     StringBuilder sb = new StringBuilder();
-    HashMap<String, Set<String>> deviceMap = new HashMap<>();
+    Map<String, Set<String>> deviceMap = new TreeMap<>((o1, o2) -> {
+      return o1.compareToIgnoreCase(o2);
+    });
 
     for (String name : POPULAR_DEVICES) {
       List<String> list = new ArrayList<>();
@@ -315,18 +316,19 @@ public class Main {
     }
 
     // TODO: Use JavaPoet and create a working class.
-    sb.append("public static String getDeviceName() {\n");
-    sb.append("\tswitch (android.os.Build.DEVICE) {\n");
+    sb.append("public static String getDeviceName(String codename, String fallback) {\n");
+    sb.append("  switch (codename) {\n");
     for (Map.Entry<String, Set<String>> entry : deviceMap.entrySet()) {
       Set<String> codenames = entry.getValue();
       for (String codename : codenames) {
-        sb.append("\t\tcase \"" + codename + "\":\n");
+        sb.append("    case \"" + codename + "\":\n");
       }
-      sb.append("\t\t\treturn \"" + entry.getKey() + "\";\n");
+      sb.append("      return \"" + entry.getKey() + "\";\n");
     }
-    sb.append("\t\tdefault:\n");
-    sb.append("\t\t\treturn android.os.Build.MODEL;\n\t}\n}");
+    sb.append("    default:\n");
+    sb.append("      return fallback;\n\t}\n}");
 
+    System.out.println(sb.toString());
     new File("json").mkdirs();
     FileUtils.write(new File("json/gist.txt"), sb.toString());
   }
